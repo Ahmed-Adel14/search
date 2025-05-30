@@ -1,0 +1,8 @@
+AddEvenListener--------Supports advanced options like:capture/once/passive
+- better for clean code.
+-Can easily remove specific listeners
+
+
+
+onevents---------يمكنك فقط تعيين مستمع واحد
+-أقل قابلية لإزالة حدث معين بدقة.
